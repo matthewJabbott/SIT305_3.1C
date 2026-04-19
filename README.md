@@ -90,11 +90,5 @@ Instructions on how to run the project:
 1. Install dependencies: `pip install -r requirements.txt`
 2. Run the application using: `python main.py`
    
-### Contributing
-Contributions are welcome! Please open an issue or submit a pull request if you would like to contribute to this project.
 
-### License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-### Contact
-For any inquiries, please contact the project maintainer at [your-email@example.com]
