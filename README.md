@@ -27,19 +27,33 @@
 ## Project Structure
 
 ├── app 
+
 │ ├── src 
+
 │ │ ├── main 
+
 │ │ │ ├── java 
+
 │ │ │ │ └── com.example.quizapp 
+
 │ │ │ │ ├── data 
+
 │ │ │ │ ├── di 
+
 │ │ │ │ ├── ui 
+
 │ │ │ │ └── viewmodel 
+
 │ │ │ ├── res 
+
 │ │ │ └── AndroidManifest.xml 
+
 │ └── build.gradle 
+
 ├── gradle 
+
 └── build.gradle
+
 Code
 
 
